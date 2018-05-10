@@ -1,0 +1,1004 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.9)  9 MAR 2018 14:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CV.tex
+(./CV.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
+Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
+ocument class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen102
+\extrarowheight=\dimen103
+\NC@list=\toks14
+\extratabsurround=\skip41
+\backup@length=\skip42
+)
+\everycr=\toks15
+\minrowclearance=\skip43
+)
+\rownum=\count81
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/tweaklist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count82
+\calc@Bcount=\count83
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count84
+\calc@Cskip=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count85
+\l_tmpa_int=\count86
+\l_tmpb_int=\count87
+\g_tmpa_int=\count88
+\g_tmpb_int=\count89
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count90
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count91
+\l__iow_target_count_int=\count92
+\l__iow_current_line_int=\count93
+\l__iow_current_word_int=\count94
+\l__iow_current_indentation_int=\count95
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip56
+\c_max_skip=\skip57
+\l_tmpa_skip=\skip58
+\l_tmpb_skip=\skip59
+\g_tmpa_skip=\skip60
+\g_tmpb_skip=\skip61
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count96
+\l_keys_choice_int=\count97
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count98
+\c__fp_middle_shift_int=\count99
+\c__fp_trailing_shift_int=\count100
+\c__fp_big_leading_shift_int=\count101
+\c__fp_big_middle_shift_int=\count102
+\c__fp_big_trailing_shift_int=\count103
+\c__fp_Bigg_leading_shift_int=\count104
+\c__fp_Bigg_middle_shift_int=\count105
+\c__fp_Bigg_trailing_shift_int=\count106
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen114
+\l__coffin_offset_x_dim=\dimen115
+\l__coffin_offset_y_dim=\dimen116
+\l__coffin_x_dim=\dimen117
+\l__coffin_y_dim=\dimen118
+\l__coffin_x_prime_dim=\dimen119
+\l__coffin_y_prime_dim=\dimen120
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen121
+\l__coffin_display_x_dim=\dimen122
+\l__coffin_display_y_dim=\dimen123
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen124
+\l__box_bottom_dim=\dimen125
+\l__box_left_dim=\dimen126
+\l__box_right_dim=\dimen127
+\l__box_top_new_dim=\dimen128
+\l__box_bottom_new_dim=\dimen129
+\l__box_left_new_dim=\dimen130
+\l__box_right_new_dim=\dimen131
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count107
+))
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count108
+\l__xparse_m_args_int=\count109
+\l__xparse_mandatory_args_int=\count110
+\l__xparse_processor_int=\count111
+\l__xparse_v_nesting_int=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@count=\count113
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count114
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip62
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcollection.sty
+Package: moderncvcollection 2015/07/28 v2.0.0 moderncv collections
+\c@collection@iterator=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcompatibility.sty
+Package: moderncvcompatibility 2015/07/28 v2.0.0 modern curriculum vitae and le
+tter compatibility patches
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \address with sig. 'mG{}G{}' on line 236.
+.................................................
+\c@collection@phones@count=\count116
+\c@collection@socials@count=\count117
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \social with sig. 'O{}O{}m' on line 263.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \photo with sig. 'O{64pt}O{0.4pt}m' on line 391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \section with sig. 'sm' on line 449.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \subsection with sig. 'sm' on line 453.
+.................................................
+\c@cvcolumnscounter=\count118
+\c@cvcolumnsautowidthcounter=\count119
+\c@tmpiteratorcounter=\count120
+\cvcolumnsdummywidth=\skip63
+\cvcolumnswidth=\skip64
+\cvcolumnsautowidth=\skip65
+\cvcolumnautowidth=\skip66
+\bibindent=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
+Package: moderncvstylecasual 2015/07/28 v2.0.0 modern curriculum vitae and lett
+er style scheme: casual
+
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconsawesome.sty
+Package: moderncviconsawesome 2015/07/28 v2.0.0 modern curriculum vitae and let
+ter icons: awesome
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2015/07/30 v4.4.0 font awesome icons
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
+.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.
+tex))) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
+
+LaTeX Warning: You have requested package `moderncvheadii',
+               but the package provides `moderncvheadii'.
+
+Package: moderncvheadii 2015/07/28 v2.0.0 modern curriculum vitae and letter he
+ader variant: 2
+\makeheaddetailsbox=\box41
+\makeheaddetailstempbox=\box42
+\makeheaddetailswidth=\skip68
+\makeheaddetailsboxwidth=\skip69
+\quotewidth=\skip70
+\makecvheadnamewidth=\skip71
+) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
+
+LaTeX Warning: You have requested package `moderncvbodyi',
+               but the package provides `moderncvbodyi'.
+
+Package: moderncvbodyi 2015/07/28 v2.0.0 modern curriculum vitae and letter bod
+y variant: 1
+\hintscolumnwidth=\skip72
+\separatorcolumnwidth=\skip73
+\maincolumnwidth=\skip74
+\doubleitemcolumnwidth=\skip75
+\listitemsymbolwidth=\skip76
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
+line 46.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+File: ufontawesometwo.fd 2015/07/30 Font definitions for U/fontawesometwo.
+)
+\listitemcolumnwidth=\skip77
+\listdoubleitemcolumnwidth=\skip78
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \photo with sig. 'O{\hintscolumnwidth -0.8pt-2\fboxsep
+. }O{0.4pt}m' on line 51.
+.................................................
+\baseletterheight=\skip79
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \section with sig. 'sm' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \subsection with sig. 'sm' on line 80.
+.................................................
+\cvitemwithcommentbox=\box43
+\cvitemwithcommentskilllength=\skip80
+\cvitemwithcommentcommentlength=\skip81
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
+
+LaTeX Warning: You have requested package `moderncvfooti',
+               but the package provides `moderncvfooti'.
+
+Package: moderncvfooti 2015/07/28 v2.0.0 modern curriculum vitae and letter foo
+ter variant: 1
+\footwidth=\skip82
+\footbox=\box44
+\foottempbox=\box45
+\footboxwidth=\skip83
+)) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorpurple.sty
+Package: moderncvcolorpurple 2015/07/28 v2.0.0 modern curriculum vitae and lett
+er color scheme: purple
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count121
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count122
+\mult@box=\box46
+\multicol@leftmargin=\dimen140
+\c@unbalance=\count123
+\c@collectmore=\count124
+\doublecol@number=\count125
+\multicoltolerance=\count126
+\multicolpretolerance=\count127
+\full@width=\dimen141
+\page@free=\dimen142
+\premulticols=\dimen143
+\postmulticols=\dimen144
+\multicolsep=\skip84
+\multicolbaselineskip=\skip85
+\partial@page=\box47
+\last@line=\box48
+\maxbalancingoverflow=\dimen145
+\mult@rightbox=\box49
+\mult@grightbox=\box50
+\mult@gfirstbox=\box51
+\mult@firstbox=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\c@columnbadness=\count128
+\c@finalcolumnbadness=\count129
+\last@try=\dimen146
+\multicolovershoot=\dimen147
+\multicolundershoot=\dimen148
+\mult@nat@firstbox=\box70
+\colbreak@box=\box71
+\mc@col@check@num=\count130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count131
+\Gm@cntv=\count132
+\c@Gm@tempcnt=\count133
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count134
+\Hy@pagecounter=\count135
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count136
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count137
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen158
+\Fld@menulength=\count138
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count139
+\c@Item=\count140
+\c@Hfootnote=\count141
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count142
+\c@bookmark@seq@number=\count143
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip86
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 79.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 79.
+
+(./CV.aux)
+\openout1 = `CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 79.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen161
+\scratchbox=\box72
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen162
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \microtypecontext on input line 79.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 79.
+
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(68.71213pt, 460.0836pt, 68.71214pt)
+* v-part:(T,H,B)=(77.74286pt, 650.68967pt, 116.61432pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=460.0836pt
+* \textheight=650.68967pt
+* \oddsidemargin=-3.55786pt
+* \evensidemargin=-3.55786pt
+* \topmargin=-31.52713pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring OFF on input line 79.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
+
+(./CV.out) (./CV.out)
+\@outlinefile=\write3
+\openout3 = `CV.out'.
+
+\pagenumberwidth=\skip87
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 79.
+\makecvheadpicturebox=\box74
+\makecvheadpicturewidth=\skip88
+\makecvheadnamebox=\box75
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 103.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 103.
+
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 103
+.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 103
+.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 103.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 103.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 103.
+
+<pictures/aut.png, id=30, 112.92188pt x 123.46124pt>
+File: pictures/aut.png Graphic file (type png)
+ <use pictures/aut.png>
+Package pdftex.def Info: pictures/aut.png used on input line 108.
+(pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
+
+<pictures/emamreza.png, id=33, 107.40125pt x 200.75pt>
+File: pictures/emamreza.png Graphic file (type png)
+
+<use pictures/emamreza.png>
+Package pdftex.def Info: pictures/emamreza.png used on input line 116.
+(pdftex.def)             Requested size: 6.4192pt x 11.99852pt.
+
+<pictures/cpp.png, id=34, 146.79843pt x 170.88844pt>
+File: pictures/cpp.png Graphic file (type png)
+ <use pictures/cpp.png>
+Package pdftex.def Info: pictures/cpp.png used on input line 298.
+(pdftex.def)             Requested size: 10.30829pt x 11.99991pt.
+
+<pictures/python.png, id=35, 752.8125pt x 861.2175pt>
+File: pictures/python.png Graphic file (type png)
+
+<use pictures/python.png>
+Package pdftex.def Info: pictures/python.png used on input line 298.
+(pdftex.def)             Requested size: 10.48761pt x 11.99782pt.
+ <pictures/html5.png, id=36, 513.92pt x 513.92pt>
+File: pictures/html5.png Graphic file (type png)
+
+<use pictures/html5.png>
+Package pdftex.def Info: pictures/html5.png used on input line 298.
+(pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
+ <pictures/css3.png, id=37, 1027.84pt x 1027.84pt>
+File: pictures/css3.png Graphic file (type png)
+
+<use pictures/css3.png>
+Package pdftex.def Info: pictures/css3.png used on input line 298.
+(pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
+ <pictures/js.png, id=38, 451.6875pt x 451.6875pt>
+File: pictures/js.png Graphic file (type png)
+
+<use pictures/js.png>
+Package pdftex.def Info: pictures/js.png used on input line 298.
+(pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
+ <pictures/php.png, id=39, 513.92pt x 513.92pt>
+File: pictures/php.png Graphic file (type png)
+
+<use pictures/php.png>
+Package pdftex.def Info: pictures/php.png used on input line 298.
+(pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
+ <pictures/mysql.png, id=40, 200.75pt x 200.75pt>
+File: pictures/mysql.png Graphic file (type png)
+
+<use pictures/mysql.png>
+Package pdftex.def Info: pictures/mysql.png used on input line 298.
+(pdftex.def)             Requested size: 11.99852pt x 11.99852pt.
+ <pictures/latex.png, id=41, 128.48pt x 128.48pt>
+File: pictures/latex.png Graphic file (type png)
+
+<use pictures/latex.png>
+Package pdftex.def Info: pictures/latex.png used on input line 298.
+(pdftex.def)             Requested size: 11.99988pt x 11.99988pt.
+ <pictures/matlab.jpg, id=42, 685.8122pt x 589.4522pt>
+File: pictures/matlab.jpg Graphic file (type jpg)
+
+<use pictures/matlab.jpg>
+Package pdftex.def Info: pictures/matlab.jpg used on input line 298.
+(pdftex.def)             Requested size: 11.99246pt x 10.30746pt.
+
+<pictures/visual.png, id=43, 264.23718pt x 237.13594pt>
+File: pictures/visual.png Graphic file (type png)
+
+<use pictures/visual.png>
+Package pdftex.def Info: pictures/visual.png used on input line 298.
+(pdftex.def)             Requested size: 11.99901pt x 10.76834pt.
+ <pictures/qt.png, id=44, 1054.6903pt x 976.39781pt>
+File: pictures/qt.png Graphic file (type png)
+
+<use pictures/qt.png>
+Package pdftex.def Info: pictures/qt.png used on input line 298.
+(pdftex.def)             Requested size: 11.98947pt x 11.09946pt.
+File: pictures/qt.png Graphic file (type png)
+ <use pictures/qt.png>
+Package pdftex.def Info: pictures/qt.png used on input line 298.
+(pdftex.def)             Requested size: 11.98947pt x 11.09946pt.
+
+<pictures/git.png, id=45, 200.75pt x 200.75pt>
+File: pictures/git.png Graphic file (type png)
+ <use pictures/git.png>
+Package pdftex.def Info: pictures/git.png used on input line 298.
+(pdftex.def)             Requested size: 11.99852pt x 11.99852pt.
+
+<pictures/arduino.png, id=46, 216.81pt x 191.21437pt>
+File: pictures/arduino.png Graphic file (type png)
+
+<use pictures/arduino.png>
+Package pdftex.def Info: pictures/arduino.png used on input line 298.
+(pdftex.def)             Requested size: 11.99901pt x 10.58246pt.
+
+<pictures/proteus.jpg, id=47, 225.84375pt x 225.84375pt>
+File: pictures/proteus.jpg Graphic file (type jpg)
+
+<use pictures/proteus.jpg>
+Package pdftex.def Info: pictures/proteus.jpg used on input line 298.
+(pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
+ <pictures/ads.png, id=48, 222.8325pt x 225.09094pt>
+File: pictures/ads.png Graphic file (type png)
+
+<use pictures/ads.png>
+Package pdftex.def Info: pictures/ads.png used on input line 298.
+(pdftex.def)             Requested size: 11.87671pt x 11.99707pt.
+
+<pictures/react.jpg, id=49, 1093.08376pt x 1008.76875pt>
+File: pictures/react.jpg Graphic file (type jpg)
+
+<use pictures/react.jpg>
+Package pdftex.def Info: pictures/react.jpg used on input line 298.
+(pdftex.def)             Requested size: 11.99226pt x 11.06723pt.
+ <pictures/redux.png, id=50, 828.696pt x 748.9581pt>
+File: pictures/redux.png Graphic file (type png)
+
+<use pictures/redux.png>
+Package pdftex.def Info: pictures/redux.png used on input line 298.
+(pdftex.def)             Requested size: 11.99997pt x 10.84532pt.
+
+
+LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
+(Font)              using `U/fontawesometwo/m/n' instead on input line 319.
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 319.
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 319.
+
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 47.152pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/aut.png> <./pic
+tures/emamreza.png> <./pictures/cpp.png> <./pictures/python.png> <./pictures/ht
+ml5.png> <./pictures/css3.png> <./pictures/js.png> <./pictures/php.png> <./pict
+ures/mysql.png> <./pictures/latex.png> <./pictures/matlab.jpg> <./pictures/visu
+al.png> <./pictures/qt.png> <./pictures/git.png> <./pictures/arduino.png> <./pi
+ctures/proteus.jpg> <./pictures/ads.png> <./pictures/react.jpg> <./pictures/red
+ux.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 47.152pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
+ (./CV.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: 7991C7FC65B27172E5814486FC047317;660.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20498 strings out of 494953
+ 338506 string characters out of 6180978
+ 519101 words of memory out of 5000000
+ 23533 multiletter control sequences out of 15000+600000
+ 67518 words of font info for 63 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 48i,24n,48p,10354b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome
+/fontawesometwo.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontaweso
+me/FontAwesome.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+sy10.pfb>
+Output written on CV.pdf (2 pages, 860043 bytes).
+PDF statistics:
+ 138 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 20624 words of extra memory for PDF output out of 20736 (max. 10000000)
+
