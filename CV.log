@@ -1,51 +1,98 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.12)  26 FEB 2019 23:51
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.5.8)  8 NOV 2019 19:56
+ restricted system commands enabled.
 **CV.tex
 (./CV.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
-Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
-ocument class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2018-12-01>
+Lua module: luaotfload-main 2019-02-14 2.96 luaotfload entry point
+Lua module: luaotfload-init 2019-02-14 2.96 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2019-02-14 2.64 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2019-02-14 2.64 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2019-02-14 2.96 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2019-02-14 2.96 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2019-02-14 2.96 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is /Users/hassan/Library/texlive/2019/t
+exmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2019-02-14.lua” from kpse
+-resolved path “/usr/local/texlive/2019/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2019-02-14.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.107”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2019-02-14 2.96 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2019-02-14 2.96 luaotfload submodule / database
+Lua module: luaotfload-colors 2019-02-14 2.96 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2019-02-14 2.96 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is /Users/hassan/Library/texlive/2019/t
+exmf-var/luatex-cache/generic/names.
+Lua module: luaotfload-features 2019-02-14 2.96 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2019-02-14 2.96 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2019-02-14 2.96 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.065 seconds
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncv.cls
+Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter do
+cument class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /Users/hassan/Library/texlive/
+2019/texmf-var/luatex-cache/generic/names/luaotfload-names.luc)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count79
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: luatex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 )
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen102
+\ar@mcellbox=\box27
 \extrarowheight=\dimen103
 \NC@list=\toks14
 \extratabsurround=\skip41
 \backup@length=\skip42
+\ar@cellbox=\box28
 )
 \everycr=\toks15
 \minrowclearance=\skip43
 )
-\rownum=\count80
+\rownum=\count81
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -54,26 +101,26 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package ifluatex Info: LuaTeX detected.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
 
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-(/usr/share/texmf/tex/latex/lm/lmodern.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -108,34 +155,34 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 99.
+Package graphics Info: Driver file: luatex.def on input line 99.
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip44
 \f@nch@O@elh=\skip45
 \f@nch@O@erh=\skip46
@@ -146,38 +193,39 @@ s
 \f@nch@O@olf=\skip51
 \f@nch@O@orf=\skip52
 )
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/tweaklist.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count81
-\calc@Bcount=\count82
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/tweaklist.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count82
+\calc@Bcount=\count83
 \calc@Adimen=\dimen106
 \calc@Bdimen=\dimen107
 \calc@Askip=\skip53
 \calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count83
+\calc@Ccount=\count84
 \calc@Cskip=\skip55
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018/02/21 L3 programming layer (loader) 
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-05-07 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018/02/21 L3 programming layer (code)
-\c_max_int=\count84
-\l_tmpa_int=\count85
-\l_tmpb_int=\count86
-\g_tmpa_int=\count87
-\g_tmpb_int=\count88
-\g__intarray_font_int=\count89
-\g__prg_map_int=\count90
-\c_log_iow=\count91
-\l_iow_line_count_int=\count92
-\l__iow_line_target_int=\count93
-\l__iow_one_indent_int=\count94
-\l__iow_indent_int=\count95
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-05-07 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count85
+\l_tmpa_int=\count86
+\l_tmpb_int=\count87
+\g_tmpa_int=\count88
+\g_tmpb_int=\count89
+\g__kernel_prg_map_int=\count90
+\c__ior_term_ior=\count91
+\c_log_iow=\count92
+\l_iow_line_count_int=\count93
+\l__iow_line_target_int=\count94
+\l__iow_one_indent_int=\count95
+\l__iow_indent_int=\count96
 \c_zero_dim=\dimen108
 \c_max_dim=\dimen109
 \l_tmpa_dim=\dimen110
@@ -196,539 +244,322 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count96
-\c__fp_leading_shift_int=\count97
-\c__fp_middle_shift_int=\count98
-\c__fp_trailing_shift_int=\count99
-\c__fp_big_leading_shift_int=\count100
-\c__fp_big_middle_shift_int=\count101
-\c__fp_big_trailing_shift_int=\count102
-\c__fp_Bigg_leading_shift_int=\count103
-\c__fp_Bigg_middle_shift_int=\count104
-\c__fp_Bigg_trailing_shift_int=\count105
-\l__sort_length_int=\count106
-\l__sort_min_int=\count107
-\l__sort_top_int=\count108
-\l__sort_max_int=\count109
-\l__sort_true_max_int=\count110
-\l__sort_block_int=\count111
-\l__sort_begin_int=\count112
-\l__sort_end_int=\count113
-\l__sort_A_int=\count114
-\l__sort_B_int=\count115
-\l__sort_C_int=\count116
-\l__tl_build_start_index_int=\count117
-\l__tl_build_index_int=\count118
-\l__tl_analysis_normal_int=\count119
-\l__tl_analysis_index_int=\count120
-\l__tl_analysis_nesting_int=\count121
-\l__tl_analysis_type_int=\count122
-\l__regex_internal_a_int=\count123
-\l__regex_internal_b_int=\count124
-\l__regex_internal_c_int=\count125
-\l__regex_balance_int=\count126
-\l__regex_group_level_int=\count127
-\l__regex_mode_int=\count128
-\c__regex_cs_in_class_mode_int=\count129
-\c__regex_cs_mode_int=\count130
-\l__regex_catcodes_int=\count131
-\l__regex_default_catcodes_int=\count132
-\c__regex_catcode_L_int=\count133
-\c__regex_catcode_O_int=\count134
-\c__regex_catcode_A_int=\count135
-\c__regex_all_catcodes_int=\count136
-\l__regex_show_lines_int=\count137
-\l__regex_min_state_int=\count138
-\l__regex_max_state_int=\count139
-\l__regex_left_state_int=\count140
-\l__regex_right_state_int=\count141
-\l__regex_capturing_group_int=\count142
-\l__regex_min_pos_int=\count143
-\l__regex_max_pos_int=\count144
-\l__regex_curr_pos_int=\count145
-\l__regex_start_pos_int=\count146
-\l__regex_success_pos_int=\count147
-\l__regex_curr_char_int=\count148
-\l__regex_curr_catcode_int=\count149
-\l__regex_last_char_int=\count150
-\l__regex_case_changed_char_int=\count151
-\l__regex_curr_state_int=\count152
-\l__regex_step_int=\count153
-\l__regex_min_active_int=\count154
-\l__regex_max_active_int=\count155
-\l__regex_replacement_csnames_int=\count156
-\l__regex_match_count_int=\count157
-\l__regex_min_submatch_int=\count158
-\l__regex_submatch_int=\count159
-\l__regex_zeroth_submatch_int=\count160
-\g__regex_trace_regex_int=\count161
-\c_empty_box=\box26
-\l_tmpa_box=\box27
-\l_tmpb_box=\box28
-\g_tmpa_box=\box29
-\g_tmpb_box=\box30
-\l__box_top_dim=\dimen114
-\l__box_bottom_dim=\dimen115
-\l__box_left_dim=\dimen116
-\l__box_right_dim=\dimen117
-\l__box_top_new_dim=\dimen118
-\l__box_bottom_new_dim=\dimen119
-\l__box_left_new_dim=\dimen120
-\l__box_right_new_dim=\dimen121
-\l__box_internal_box=\box31
-\l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen122
-\l__coffin_offset_x_dim=\dimen123
-\l__coffin_offset_y_dim=\dimen124
-\l__coffin_x_dim=\dimen125
-\l__coffin_y_dim=\dimen126
-\l__coffin_x_prime_dim=\dimen127
-\l__coffin_y_prime_dim=\dimen128
-\c_empty_coffin=\box33
-\l__coffin_aligned_coffin=\box34
-\l__coffin_aligned_internal_coffin=\box35
-\l_tmpa_coffin=\box36
-\l_tmpb_coffin=\box37
-\l__coffin_display_coffin=\box38
-\l__coffin_display_coord_coffin=\box39
-\l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen129
-\l__coffin_display_x_dim=\dimen130
-\l__coffin_display_y_dim=\dimen131
-\l__coffin_bounding_shift_dim=\dimen132
-\l__coffin_left_corner_dim=\dimen133
-\l__coffin_right_corner_dim=\dimen134
-\l__coffin_bottom_corner_dim=\dimen135
-\l__coffin_top_corner_dim=\dimen136
-\l__coffin_scaled_total_height_dim=\dimen137
-\l__coffin_scaled_width_dim=\dimen138
+\l_keys_choice_int=\count97
+\l__intarray_loop_int=\count98
+\c__intarray_sp_dim=\dimen114
+\g__intarray_font_int=\count99
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
+\g__fp_array_int=\count109
+\l__fp_array_loop_int=\count110
+\l__sort_length_int=\count111
+\l__sort_min_int=\count112
+\l__sort_top_int=\count113
+\l__sort_max_int=\count114
+\l__sort_true_max_int=\count115
+\l__sort_block_int=\count116
+\l__sort_begin_int=\count117
+\l__sort_end_int=\count118
+\l__sort_A_int=\count119
+\l__sort_B_int=\count120
+\l__sort_C_int=\count121
+\l__tl_analysis_normal_int=\count122
+\l__tl_analysis_index_int=\count123
+\l__tl_analysis_nesting_int=\count124
+\l__tl_analysis_type_int=\count125
+\l__regex_internal_a_int=\count126
+\l__regex_internal_b_int=\count127
+\l__regex_internal_c_int=\count128
+\l__regex_balance_int=\count129
+\l__regex_group_level_int=\count130
+\l__regex_mode_int=\count131
+\c__regex_cs_in_class_mode_int=\count132
+\c__regex_cs_mode_int=\count133
+\l__regex_catcodes_int=\count134
+\l__regex_default_catcodes_int=\count135
+\c__regex_catcode_L_int=\count136
+\c__regex_catcode_O_int=\count137
+\c__regex_catcode_A_int=\count138
+\c__regex_all_catcodes_int=\count139
+\l__regex_show_lines_int=\count140
+\l__regex_min_state_int=\count141
+\l__regex_max_state_int=\count142
+\l__regex_left_state_int=\count143
+\l__regex_right_state_int=\count144
+\l__regex_capturing_group_int=\count145
+\l__regex_min_pos_int=\count146
+\l__regex_max_pos_int=\count147
+\l__regex_curr_pos_int=\count148
+\l__regex_start_pos_int=\count149
+\l__regex_success_pos_int=\count150
+\l__regex_curr_char_int=\count151
+\l__regex_curr_catcode_int=\count152
+\l__regex_last_char_int=\count153
+\l__regex_case_changed_char_int=\count154
+\l__regex_curr_state_int=\count155
+\l__regex_step_int=\count156
+\l__regex_min_active_int=\count157
+\l__regex_max_active_int=\count158
+\l__regex_replacement_csnames_int=\count159
+\l__regex_match_count_int=\count160
+\l__regex_min_submatch_int=\count161
+\l__regex_submatch_int=\count162
+\l__regex_zeroth_submatch_int=\count163
+\g__regex_trace_regex_int=\count164
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+\l__box_top_dim=\dimen115
+\l__box_bottom_dim=\dimen116
+\l__box_left_dim=\dimen117
+\l__box_right_dim=\dimen118
+\l__box_top_new_dim=\dimen119
+\l__box_bottom_new_dim=\dimen120
+\l__box_left_new_dim=\dimen121
+\l__box_right_new_dim=\dimen122
+\l__box_internal_box=\box34
+\l__coffin_internal_box=\box35
+\l__coffin_internal_dim=\dimen123
+\l__coffin_offset_x_dim=\dimen124
+\l__coffin_offset_y_dim=\dimen125
+\l__coffin_x_dim=\dimen126
+\l__coffin_y_dim=\dimen127
+\l__coffin_x_prime_dim=\dimen128
+\l__coffin_y_prime_dim=\dimen129
+\c_empty_coffin=\box36
+\l__coffin_aligned_coffin=\box37
+\l__coffin_aligned_internal_coffin=\box38
+\l_tmpa_coffin=\box39
+\l_tmpb_coffin=\box40
+\g_tmpa_coffin=\box41
+\g_tmpb_coffin=\box42
+\l__coffin_bounding_shift_dim=\dimen130
+\l__coffin_left_corner_dim=\dimen131
+\l__coffin_right_corner_dim=\dimen132
+\l__coffin_bottom_corner_dim=\dimen133
+\l__coffin_top_corner_dim=\dimen134
+\l__coffin_scaled_total_height_dim=\dimen135
+\l__coffin_scaled_width_dim=\dimen136
+\c__coffin_empty_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen137
+\l__coffin_display_x_dim=\dimen138
+\l__coffin_display_y_dim=\dimen139
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count165
+\l__seq_internal_b_int=\count166
+\c__deprecation_minus_one=\count167
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count162
-\l__driver_tmp_box=\box41
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count168
+\l__driver_pdf_tmp_box=\box47
 ))
-Package: xparse 2018/02/21 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count163
-\g__xparse_grabber_int=\count164
-\l__xparse_m_args_int=\count165
-\l__xparse_mandatory_args_int=\count166
-\l__xparse_v_nesting_int=\count167
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count169
+\g__xparse_grabber_int=\count170
+\l__xparse_m_args_int=\count171
+\l__xparse_v_nesting_int=\count172
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 \MT@toks=\toks17
-\MT@count=\count168
-LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen139
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count169
+\MT@count=\count173
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen140
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count174
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2018/01/14 v2.7a Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 256.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2019/02/28 v2.7b Definitions specific to luatex (RS)
+
+Module microtype Warning: overwriting function `keepligature' on input line 59
+LaTeX Info: Redefining \lsstyle on input line 681.
+LaTeX Info: Redefining \lslig on input line 681.
+\MT@outer@space=\skip62
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcollection.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvcollection.sty
 Package: moderncvcollection 2015/07/28 v2.0.0 moderncv collections
-\c@collection@iterator=\count170
+\c@collection@iterator=\count175
 )
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcompatibility.sty
-Package: moderncvcompatibility 2015/07/28 v2.0.0 modern curriculum vitae and le
-tter compatibility patches
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvcompatibility.st
+y
+Package: moderncvcompatibility 2015/07/28 v2.0.0 modern curriculum vitae and let
+ter compatibility patches
 )
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \address with sig. 'mG{}G{}' on line 236.
-.................................................
-\c@collection@phones@count=\count171
-\c@collection@socials@count=\count172
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \social with sig. 'O{}O{}m' on line 263.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \photo with sig. 'O{64pt}O{0.4pt}m' on line 391.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \section with sig. 'sm' on line 449.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \subsection with sig. 'sm' on line 453.
-.................................................
-\c@cvcolumnscounter=\count173
-\c@cvcolumnsautowidthcounter=\count174
-\c@tmpiteratorcounter=\count175
-\cvcolumnsdummywidth=\skip62
-\cvcolumnswidth=\skip63
-\cvcolumnsautowidth=\skip64
-\cvcolumnautowidth=\skip65
-\bibindent=\skip66
+\c@collection@phones@count=\count176
+\c@collection@socials@count=\count177
+\c@cvcolumnscounter=\count178
+\c@cvcolumnsautowidthcounter=\count179
+\c@tmpiteratorcounter=\count180
+\cvcolumnsdummywidth=\skip63
+\cvcolumnswidth=\skip64
+\cvcolumnsautowidth=\skip65
+\cvcolumnautowidth=\skip66
+\bibindent=\skip67
 )
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
-Package: moderncvstylecasual 2015/07/28 v2.0.0 modern curriculum vitae and lett
-er style scheme: casual
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
+Package: moderncvstylecasual 2015/07/28 v2.0.0 modern curriculum vitae and lette
+r style scheme: casual
 
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconsawesome.sty
-Package: moderncviconsawesome 2015/07/28 v2.0.0 modern curriculum vitae and let
-ter icons: awesome
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncviconsawesome.sty
+Package: moderncviconsawesome 2015/07/28 v2.0.0 modern curriculum vitae and lett
+er icons: awesome
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
-.tex) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
+neric.tex) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2019/03/15 2.7c Font selection for XeLaTeX and LuaLaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count176
-\l__fontspec_language_int=\count177
-\l__fontspec_strnum_int=\count178
-\l__fontspec_tmp_int=\count179
-\l__fontspec_em_int=\count180
-\l__fontspec_emdef_int=\count181
-\l__fontspec_strong_int=\count182
-\l__fontspec_strongdef_int=\count183
-\l__fontspec_tmpa_dim=\dimen140
-\l__fontspec_tmpb_dim=\dimen141
-\l__fontspec_tmpc_dim=\dimen142
-\g__file_internal_ior=\read1
+\l__fontspec_script_int=\count181
+\l__fontspec_language_int=\count182
+\l__fontspec_strnum_int=\count183
+\l__fontspec_tmp_int=\count184
+\l__fontspec_tmpa_int=\count185
+\l__fontspec_tmpb_int=\count186
+\l__fontspec_tmpc_int=\count187
+\l__fontspec_em_int=\count188
+\l__fontspec_emdef_int=\count189
+\l__fontspec_strong_int=\count190
+\l__fontspec_strongdef_int=\count191
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def
-File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 590.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeature with sig. 'm' on line 594.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 598.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 602.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 606.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 610.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 614.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 622.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 626.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3638.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareAccent with sig. 'm' on line 3693.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareCommand with sig. 'm' on line 3699.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
-.................................................
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3891.
-LaTeX Info: Redefining \slshape on input line 3896.
-LaTeX Info: Redefining \scshape on input line 3901.
-LaTeX Info: Redefining \upshape on input line 3906.
-LaTeX Info: Redefining \em on input line 3936.
-LaTeX Info: Redefining \emph on input line 3961.
-LaTeX Info: Redefining \- on input line 4015.
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \oldstylenums with sig. 'm' on line 4110.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \liningnums with sig. 'm' on line 4114.
-.................................................
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3783.
+LaTeX Info: Redefining \slshape on input line 3788.
+LaTeX Info: Redefining \scshape on input line 3793.
+LaTeX Info: Redefining \upshape on input line 3798.
+LaTeX Info: Redefining \em on input line 3828.
+LaTeX Info: Redefining \emph on input line 3853.
 ))
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font "FontAwesome" does not contain any OpenType `Script' information.
-.................................................
-\g__fontspec_family_FontAwesome_int=\count184
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FontAwesome/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FontAwesome/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FontAwesome/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'FontAwesome(0)' created for font 'FontAwesome' with options [].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"FontAwesome/OT"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
+luaotfload | cache : Lookup cache loaded from /Users/hassan/Library/texlive/2019
+/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 30 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 30
+luaotfload | aux : font no 30 (nil) defines no feature for script dflt
+luaotfload | aux : no font with id 30
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
-x.tex))) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
+Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FontAwesome(0)' created for font
+(fontspec)             'FontAwesome' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FontAwesome:mode=node;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xe
+luatex.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
 
 LaTeX Warning: You have requested package `moderncvheadii',
                but the package provides `moderncvheadii'.
 
-Package: moderncvheadii 2015/07/28 v2.0.0 modern curriculum vitae and letter he
-ader variant: 2
-\makeheaddetailsbox=\box42
-\makeheaddetailstempbox=\box43
-\makeheaddetailswidth=\skip67
-\makeheaddetailsboxwidth=\skip68
-\quotewidth=\skip69
-\makecvheadnamewidth=\skip70
-) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
+Package: moderncvheadii 2015/07/28 v2.0.0 modern curriculum vitae and letter hea
+der variant: 2
+\makeheaddetailsbox=\box48
+\makeheaddetailstempbox=\box49
+\makeheaddetailswidth=\skip68
+\makeheaddetailsboxwidth=\skip69
+\quotewidth=\skip70
+\makecvheadnamewidth=\skip71
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
 
 LaTeX Warning: You have requested package `moderncvbodyi',
                but the package provides `moderncvbodyi'.
 
-Package: moderncvbodyi 2015/07/28 v2.0.0 modern curriculum vitae and letter bod
-y variant: 1
-\hintscolumnwidth=\skip71
-\separatorcolumnwidth=\skip72
-\maincolumnwidth=\skip73
-\doubleitemcolumnwidth=\skip74
-\listitemsymbolwidth=\skip75
-\listitemcolumnwidth=\skip76
-\listdoubleitemcolumnwidth=\skip77
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \photo with sig. 'O{\hintscolumnwidth -0.8pt-2\fboxsep
-. }O{0.4pt}m' on line 51.
-.................................................
-\baseletterheight=\skip78
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \section with sig. 'sm' on line 73.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \subsection with sig. 'sm' on line 80.
-.................................................
-\cvitemwithcommentbox=\box44
-\cvitemwithcommentskilllength=\skip79
-\cvitemwithcommentcommentlength=\skip80
-) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
+Package: moderncvbodyi 2015/07/28 v2.0.0 modern curriculum vitae and letter body
+ variant: 1
+\hintscolumnwidth=\skip72
+\separatorcolumnwidth=\skip73
+\maincolumnwidth=\skip74
+\doubleitemcolumnwidth=\skip75
+\listitemsymbolwidth=\skip76
+\listitemcolumnwidth=\skip77
+\listdoubleitemcolumnwidth=\skip78
+\baseletterheight=\skip79
+\cvitemwithcommentbox=\box50
+\cvitemwithcommentskilllength=\skip80
+\cvitemwithcommentcommentlength=\skip81
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
 
 LaTeX Warning: You have requested package `moderncvfooti',
                but the package provides `moderncvfooti'.
 
-Package: moderncvfooti 2015/07/28 v2.0.0 modern curriculum vitae and letter foo
-ter variant: 1
-\footwidth=\skip81
-\footbox=\box45
-\foottempbox=\box46
-\footboxwidth=\skip82
-)) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
-Package: moderncvcolorblue 2015/07/28 v2.0.0 modern curriculum vitae and letter
- color scheme: blue
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count185
-\mult@box=\box47
-\multicol@leftmargin=\dimen143
-\c@unbalance=\count186
-\c@collectmore=\count187
-\doublecol@number=\count188
-\multicoltolerance=\count189
-\multicolpretolerance=\count190
-\full@width=\dimen144
-\page@free=\dimen145
-\premulticols=\dimen146
-\postmulticols=\dimen147
-\multicolsep=\skip83
-\multicolbaselineskip=\skip84
-\partial@page=\box48
-\last@line=\box49
-\maxbalancingoverflow=\dimen148
-\mult@rightbox=\box50
-\mult@grightbox=\box51
-\mult@gfirstbox=\box52
-\mult@firstbox=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\@tempa=\box58
-\@tempa=\box59
+Package: moderncvfooti 2015/07/28 v2.0.0 modern curriculum vitae and letter foot
+er variant: 1
+\footwidth=\skip82
+\footbox=\box51
+\foottempbox=\box52
+\footboxwidth=\skip83
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
+Package: moderncvcolorblue 2015/07/28 v2.0.0 modern curriculum vitae and letter 
+color scheme: blue
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count192
+\mult@box=\box53
+\multicol@leftmargin=\dimen144
+\c@unbalance=\count193
+\c@collectmore=\count194
+\doublecol@number=\count195
+\multicoltolerance=\count196
+\multicolpretolerance=\count197
+\full@width=\dimen145
+\page@free=\dimen146
+\premulticols=\dimen147
+\postmulticols=\dimen148
+\multicolsep=\skip84
+\multicolbaselineskip=\skip85
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen149
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
 \@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
@@ -740,46 +571,51 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box68
 \@tempa=\box69
 \@tempa=\box70
-\c@columnbadness=\count191
-\c@finalcolumnbadness=\count192
-\last@try=\dimen149
-\multicolovershoot=\dimen150
-\multicolundershoot=\dimen151
-\mult@nat@firstbox=\box71
-\colbreak@box=\box72
-\mc@col@check@num=\count193
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\c@columnbadness=\count198
+\c@finalcolumnbadness=\count199
+\last@try=\dimen150
+\multicolovershoot=\dimen151
+\multicolundershoot=\dimen152
+\mult@nat@firstbox=\box77
+\colbreak@box=\box78
+\mc@col@check@num=\count266
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen152
-\Gm@wd@mp=\dimen153
-\Gm@odd@mp=\dimen154
-\Gm@even@mp=\dimen155
-\Gm@layoutwidth=\dimen156
-\Gm@layoutheight=\dimen157
-\Gm@layouthoffset=\dimen158
-\Gm@layoutvoffset=\dimen159
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks18
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -789,22 +625,20 @@ Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(/usr/local/texlive/2019/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks19
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -817,114 +651,138 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen160
-\Hy@linkcounter=\count197
-\Hy@pagecounter=\count198
+\@linkdim=\dimen161
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count199
+\Hy@SavedSpaceFactor=\count272
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4383.
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count266
-LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen161
-\Fld@menulength=\count267
-\Field@Width=\dimen162
-\Fld@charsize=\dimen163
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count268
-\c@Item=\count269
-\c@Hfootnote=\count270
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count273
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen162
+\Fld@menulength=\count274
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
 )
-Package hyperref Info: Driver (autodetected): hxetex.
+Package hyperref Info: Driver (autodetected): hluatex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/11/30 v6.88e Hyperref driver for luaTeX
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
-Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
-)
-)
-\pdfm@box=\box73
-\c@Hy@AnnotLevel=\count271
-\HyField@AnnotCount=\count272
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
-(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
-
-(rerunfilecheck)             Therefore file contents cannot be checked efficien
-tly
-(rerunfilecheck)             and the loading of the package is aborted.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
 )
-\Hy@SectionHShift=\skip85
+\Hy@SectionHShift=\skip86
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 78.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 78.
+Package hyperref Info: Option `breaklinks' set `true' on input line 83.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 83.
 
 (./CV.aux)
-\openout1 = `CV.aux'.
+\openout1 = CV.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Info: Redefining \microtypecontext on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen165
+\scratchbox=\box79
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen166
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
+LaTeX Info: Redefining \microtypecontext on input line 83.
+Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
- (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
+RS)
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmr' (encoding: TU).
@@ -936,9 +794,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: luatex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -969,797 +827,893 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 78.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+\AtBeginShipoutBox=\box80
+Package hyperref Info: Link coloring OFF on input line 83.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count275
+\c@section@level=\count286
 )
-LaTeX Info: Redefining \ref on input line 78.
-LaTeX Info: Redefining \pageref on input line 78.
-LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \ref on input line 83.
+LaTeX Info: Redefining \pageref on input line 83.
+LaTeX Info: Redefining \nameref on input line 83.
 
 (./CV.out) (./CV.out)
 \@outlinefile=\write3
-\openout3 = `CV.out'.
 
-\pagenumberwidth=\skip86
+\openout3 = CV.out
+\pagenumberwidth=\skip87
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 78.
-\makecvheadpicturebox=\box75
-File: pictures/photo.jpg Graphic file (type bmp)
-<pictures/photo.jpg>
-\makecvheadpicturewidth=\skip87
-\makecvheadnamebox=\box76
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 83.
+\makecvheadpicturebox=\box81
+\makecvheadpicturewidth=\skip88
+\makecvheadnamebox=\box82
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 102.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 92.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 102.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 92.
 
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 102
-.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 92.
 
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 102
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 92.
 
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 102.
+(Font)              <10> on input line 92.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 102.
+(Font)              <7> on input line 92.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 102.
+(Font)              <5> on input line 92.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FontAwesome' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package microtype Info: Character `A' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `1' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `4' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `7' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `.' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `,' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `:' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `;' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `!' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `?' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\%' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `*' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `+' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `(' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `-' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textendash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textemdash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbackslash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotedblbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textless ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textgreater ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/5'.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-File: pictures/atrovan.png Graphic file (type bmp)
-<pictures/atrovan.png>
-File: pictures/shams.png Graphic file (type bmp)
-<pictures/shams.png>
-File: pictures/aut.png Graphic file (type bmp)
-<pictures/aut.png>
-File: pictures/aut.png Graphic file (type bmp)
-<pictures/aut.png>
-File: pictures/cpp.png Graphic file (type bmp)
-<pictures/cpp.png>
-File: pictures/python.png Graphic file (type bmp)
-<pictures/python.png>
-File: pictures/js.png Graphic file (type bmp)
-<pictures/js.png>
-File: pictures/php.png Graphic file (type bmp)
-<pictures/php.png>
-File: pictures/mysql.png Graphic file (type bmp)
-<pictures/mysql.png>
-File: pictures/latex.png Graphic file (type bmp)
-<pictures/latex.png>
-File: pictures/matlab.jpg Graphic file (type bmp)
-<pictures/matlab.jpg>
-File: pictures/visual.png Graphic file (type bmp)
-<pictures/visual.png>
-File: pictures/qt.png Graphic file (type bmp)
-<pictures/qt.png>
-File: pictures/git.png Graphic file (type bmp)
-<pictures/git.png>
-File: pictures/arduino.png Graphic file (type bmp)
-<pictures/arduino.png>
-File: pictures/react.jpg Graphic file (type bmp)
-<pictures/react.jpg>
-File: pictures/redux.png Graphic file (type bmp)
-<pictures/redux.png>
+<pictures/aut.png, id=42, 112.92188pt x 123.46124pt>
+File: pictures/aut.png Graphic file (type png)
+<use pictures/aut.png>
+Package luatex.def Info: pictures/aut.png  used on input line 97.
+(luatex.def)             Requested size: 10.97408pt x 11.99832pt.
+<pictures/python.png, id=43, 752.8125pt x 861.2175pt>
+File: pictures/python.png Graphic file (type png)
+<use pictures/python.png>
+Package luatex.def Info: pictures/python.png  used on input line 231.
+(luatex.def)             Requested size: 10.48761pt x 11.99782pt.
+<pictures/js.png, id=44, 1055.945pt x 1055.945pt>
+File: pictures/js.png Graphic file (type png)
+<use pictures/js.png>
+Package luatex.def Info: pictures/js.png  used on input line 231.
+(luatex.def)             Requested size: 11.98763pt x 11.98763pt.
+<pictures/java.png, id=45, 551.05875pt x 551.05875pt>
+File: pictures/java.png Graphic file (type png)
+<use pictures/java.png>
+Package luatex.def Info: pictures/java.png  used on input line 231.
+(luatex.def)             Requested size: 11.99887pt x 11.99887pt.
+<pictures/cpp.png, id=46, 146.79843pt x 170.88844pt>
+File: pictures/cpp.png Graphic file (type png)
+<use pictures/cpp.png>
+Package luatex.def Info: pictures/cpp.png  used on input line 231.
+(luatex.def)             Requested size: 10.30829pt x 11.99991pt.
+<pictures/php.png, id=47, 513.92pt x 513.92pt>
+File: pictures/php.png Graphic file (type png)
+<use pictures/php.png>
+Package luatex.def Info: pictures/php.png  used on input line 231.
+(luatex.def)             Requested size: 11.99791pt x 11.99791pt.
+<pictures/mysql.png, id=48, 200.75pt x 200.75pt>
+File: pictures/mysql.png Graphic file (type png)
+<use pictures/mysql.png>
+Package luatex.def Info: pictures/mysql.png  used on input line 231.
+(luatex.def)             Requested size: 11.99852pt x 11.99852pt.
+<pictures/bash.png, id=49, 122.1363pt x 122.3772pt>
+File: pictures/bash.png Graphic file (type png)
+<use pictures/bash.png>
+Package luatex.def Info: pictures/bash.png  used on input line 231.
+(luatex.def)             Requested size: 11.97578pt x 11.9994pt.
+<pictures/latex.png, id=50, 128.48pt x 128.48pt>
+File: pictures/latex.png Graphic file (type png)
+<use pictures/latex.png>
+Package luatex.def Info: pictures/latex.png  used on input line 231.
+(luatex.def)             Requested size: 11.99988pt x 11.99988pt.
+<pictures/matlab.jpg, id=51, 685.8122pt x 589.4522pt>
+File: pictures/matlab.jpg Graphic file (type jpg)
+<use pictures/matlab.jpg>
+Package luatex.def Info: pictures/matlab.jpg  used on input line 231.
+(luatex.def)             Requested size: 11.99246pt x 10.30746pt.
+<pictures/git.png, id=52, 200.75pt x 200.75pt>
+File: pictures/git.png Graphic file (type png)
+<use pictures/git.png>
+Package luatex.def Info: pictures/git.png  used on input line 231.
+(luatex.def)             Requested size: 11.99852pt x 11.99852pt.
+<pictures/docker.png, id=53, 225.84375pt x 225.84375pt>
+File: pictures/docker.png Graphic file (type png)
+<use pictures/docker.png>
+Package luatex.def Info: pictures/docker.png  used on input line 231.
+(luatex.def)             Requested size: 11.99928pt x 11.99928pt.
+<pictures/react.jpg, id=54, 1093.08376pt x 1008.76875pt>
+File: pictures/react.jpg Graphic file (type jpg)
+<use pictures/react.jpg>
+Package luatex.def Info: pictures/react.jpg  used on input line 231.
+(luatex.def)             Requested size: 11.99226pt x 11.06723pt.
+File: pictures/react.jpg Graphic file (type jpg)
+<use pictures/react.jpg>
+Package luatex.def Info: pictures/react.jpg  used on input line 231.
+(luatex.def)             Requested size: 11.99226pt x 11.06723pt.
+<pictures/redux.png, id=55, 828.696pt x 748.9581pt>
+File: pictures/redux.png Graphic file (type png)
+<use pictures/redux.png>
+Package luatex.def Info: pictures/redux.png  used on input line 231.
+(luatex.def)             Requested size: 11.99997pt x 10.84532pt.
+<pictures/thingsboard.png, id=56, 200.75pt x 200.75pt>
+File: pictures/thingsboard.png Graphic file (type png)
+<use pictures/thingsboard.png>
+Package luatex.def Info: pictures/thingsboard.png  used on input line 231.
+(luatex.def)             Requested size: 11.99852pt x 11.99852pt.
+<pictures/kubernetes.png, id=57, 1204.5pt x 1169.36874pt>
+File: pictures/kubernetes.png Graphic file (type png)
+<use pictures/kubernetes.png>
+Package luatex.def Info: pictures/kubernetes.png  used on input line 231.
+(luatex.def)             Requested size: 11.98322pt x 11.6337pt.
+<pictures/openwhisk.jpg, id=58, 401.5pt x 401.5pt>
+File: pictures/openwhisk.jpg Graphic file (type jpg)
+<use pictures/openwhisk.jpg>
+Package luatex.def Info: pictures/openwhisk.jpg  used on input line 231.
+(luatex.def)             Requested size: 11.99547pt x 11.99547pt.
 
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/m/sl' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 245.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 233.
 
 Package microtype Info: Character `A' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `1' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `4' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `7' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `.' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `,' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `:' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `;' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `!' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `?' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\%' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `*' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `+' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `(' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `-' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textendash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textemdash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbackslash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotedblbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textless ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textgreater ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/n/14.4'.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/n/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `A' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `1' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `4' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `7' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `.' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `,' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `:' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `;' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `!' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `?' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\%' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `*' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `+' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `(' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `-' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textendash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textemdash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbackslash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotedblbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textless ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textgreater ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/9'.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/9'.
 (microtype)             Ignoring protrusion settings for this character.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 47.2857pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Make it at least 37.88164pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 [1
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 271--273
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./picture
+s/aut.png><./pictures/python.png><./pictures/js.png><./pictures/java.png><./pict
+ures/cpp.png><./pictures/php.png><./pictures/mysql.png><./pictures/bash.png><./p
+ictures/latex.png><./pictures/matlab.jpg><./pictures/git.png><./pictures/docker.
+png><./pictures/react.jpg><./pictures/redux.png><./pictures/thingsboard.png><./p
+ictures/kubernetes.png><./pictures/openwhisk.jpg>]
+<pictures/atrovan.png, id=93, 85.0377pt x 85.0377pt>
+File: pictures/atrovan.png Graphic file (type png)
+<use pictures/atrovan.png>
+Package luatex.def Info: pictures/atrovan.png  used on input line 243.
+(luatex.def)             Requested size: 11.99991pt x 11.99991pt.
+<pictures/shams.png, id=96, 401.5pt x 401.5pt>
+File: pictures/shams.png Graphic file (type png)
+<use pictures/shams.png>
+Package luatex.def Info: pictures/shams.png  used on input line 254.
+(luatex.def)             Requested size: 11.99547pt x 11.99547pt.
+File: pictures/aut.png Graphic file (type png)
+<use pictures/aut.png>
+Package luatex.def Info: pictures/aut.png  used on input line 261.
+(luatex.def)             Requested size: 10.97408pt x 11.99832pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--285
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--291
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
 Package microtype Info: Character `A' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `F' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `J' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `K' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `L' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `T' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `V' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `W' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `X' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `Y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `k' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `r' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `v' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `w' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `x' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `y' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `1' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `4' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `7' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `.' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `,' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `:' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `;' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `!' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `?' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\%' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `*' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `+' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `(' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `)' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `-' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textendash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textemdash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbackslash ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotedblbase ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceleft ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceright ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textless ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textgreater ' is missing
-(microtype)             in font `\TU/FontAwesome(0)/m/sl/14.4'.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/FontAwesome(0)/m/sl/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 47.2857pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
+[2<./pictures/atrovan.png><./pictures/shams.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
  (./CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 295.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 295.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 338.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 338.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: 4D964E179FB7F8BF48ABB24A37F31D94;990.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
-Here is how much of TeX's memory you used:
- 22768 strings out of 493007
- 424039 string characters out of 6136718
- 559892 words of memory out of 5000000
- 26517 multiletter control sequences out of 15000+600000
- 544832 words of font info for 59 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 57i,22n,63p,10354b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+)
 
-Output written on CV.pdf (2 pages).
+Here is how much of LuaTeX's memory you used:
+ 25075 strings out of 494291
+ 125171,662416 words of node,token memory allocated
+ 927 words of node memory still in use:
+   8 hlist, 2 vlist, 1 rule, 4 disc, 1 local_par, 8 glue, 3 kern, 1 penalty, 24 
+glyph, 15 attribute, 75 glue_spec, 15 attribute_list, 1 write, 8 pdf_colorstack 
+nodes
+   avail lists: 1:1,2:1708,3:307,4:256,5:243,6:84,7:3444,8:12,9:685,10:8,11:276
+ 28625 multiletter control sequences out of 65536+600000
+ 61 fonts using 9458727 bytes
+ 56i,24n,65p,767b,528s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmromanslant10-regu
+lar.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmsans8-reg
+ular.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmsans10-o
+blique.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmsans10
+-regular.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmsans
+10-bold.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/fontawesom
+e/FontAwesome.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/l
+msans12-regular.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm
+/lmsans17-oblique.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/
+lm/lmsans17-regular.otf>
+Output written on CV.pdf (2 pages, 785329 bytes).
+
+PDF statistics: 167 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 131072)
+ 73 words of extra memory for PDF output out of 10000 (max. 100000000)
+
