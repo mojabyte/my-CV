@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2021.1.3)  29 NOV 2021 23:51
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2021.1.3)  30 NOV 2021 23:08
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.051 seconds
+luaotfload | main : initialization completed in 0.070 seconds
 (/usr/local/texlive/2019/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter do
 cument class
@@ -1676,120 +1676,141 @@ Package luatex.def Info: pictures/aut.png  used on input line 244.
 (luatex.def)             Requested size: 12.43866pt x 13.59961pt.
 File: pictures/aut.png Graphic file (type png)
 <use pictures/aut.png>
-Package luatex.def Info: pictures/aut.png  used on input line 257.
+Package luatex.def Info: pictures/aut.png  used on input line 258.
 (luatex.def)             Requested size: 12.43866pt x 13.59961pt.
-<pictures/atrovan.png, id=82, 85.0377pt x 85.0377pt>
+ [2]
+<pictures/atrovan.png, id=92, 85.0377pt x 85.0377pt>
 File: pictures/atrovan.png Graphic file (type png)
 <use pictures/atrovan.png>
-Package luatex.def Info: pictures/atrovan.png  used on input line 328.
+Package luatex.def Info: pictures/atrovan.png  used on input line 397.
 (luatex.def)             Requested size: 13.59981pt x 13.59981pt.
-<pictures/shams.png, id=84, 401.5pt x 401.5pt>
+<pictures/shams.png, id=94, 401.5pt x 401.5pt>
 File: pictures/shams.png Graphic file (type png)
 <use pictures/shams.png>
-Package luatex.def Info: pictures/shams.png  used on input line 343.
+Package luatex.def Info: pictures/shams.png  used on input line 412.
 (luatex.def)             Requested size: 13.59445pt x 13.59445pt.
- [2<./pictures/atrovan.png><./pictures/shams.png>]
-<pictures/python.png, id=96, 752.8125pt x 861.2175pt>
+<pictures/python.png, id=95, 752.8125pt x 861.2175pt>
 File: pictures/python.png Graphic file (type png)
 <use pictures/python.png>
-Package luatex.def Info: pictures/python.png  used on input line 466.
+Package luatex.def Info: pictures/python.png  used on input line 486.
 (luatex.def)             Requested size: 11.87753pt x 13.58789pt.
-<pictures/js.png, id=97, 1055.945pt x 1055.945pt>
+<pictures/js.png, id=96, 1055.945pt x 1055.945pt>
 File: pictures/js.png Graphic file (type png)
 <use pictures/js.png>
-Package luatex.def Info: pictures/js.png  used on input line 466.
+Package luatex.def Info: pictures/js.png  used on input line 486.
 (luatex.def)             Requested size: 13.59886pt x 13.59886pt.
-<pictures/java.png, id=98, 551.05875pt x 551.05875pt>
+<pictures/java.png, id=97, 551.05875pt x 551.05875pt>
 File: pictures/java.png Graphic file (type png)
 <use pictures/java.png>
-Package luatex.def Info: pictures/java.png  used on input line 466.
+Package luatex.def Info: pictures/java.png  used on input line 486.
 (luatex.def)             Requested size: 13.59648pt x 13.59648pt.
-<pictures/cpp.png, id=99, 146.79843pt x 170.88844pt>
+<pictures/cpp.png, id=98, 146.79843pt x 170.88844pt>
 File: pictures/cpp.png Graphic file (type png)
 <use pictures/cpp.png>
-Package luatex.def Info: pictures/cpp.png  used on input line 466.
+Package luatex.def Info: pictures/cpp.png  used on input line 486.
 (luatex.def)             Requested size: 11.68138pt x 13.59834pt.
-LaTeX Font Info:    Font shape `TU/CormorantGaramond(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 466.
-<pictures/mysql.png, id=100, 200.75pt x 200.75pt>
-File: pictures/mysql.png Graphic file (type png)
-<use pictures/mysql.png>
-Package luatex.def Info: pictures/mysql.png  used on input line 466.
-(luatex.def)             Requested size: 13.59752pt x 13.59752pt.
-<pictures/bash.png, id=101, 122.1363pt x 122.3772pt>
-File: pictures/bash.png Graphic file (type png)
-<use pictures/bash.png>
-Package luatex.def Info: pictures/bash.png  used on input line 466.
-(luatex.def)             Requested size: 13.57294pt x 13.5997pt.
-<pictures/matlab.jpg, id=102, 685.8122pt x 589.4522pt>
-File: pictures/matlab.jpg Graphic file (type jpg)
-<use pictures/matlab.jpg>
-Package luatex.def Info: pictures/matlab.jpg  used on input line 466.
-(luatex.def)             Requested size: 13.59355pt x 11.6836pt.
-<pictures/git.png, id=103, 200.75pt x 200.75pt>
+<pictures/pytorch.png, id=99, 1919.17pt x 2048.65375pt>
+File: pictures/pytorch.png Graphic file (type png)
+<use pictures/pytorch.png>
+Package luatex.def Info: pictures/pytorch.png  used on input line 486.
+(luatex.def)             Requested size: 12.73859pt x 13.59805pt.
+<pictures/tensorflow.png, id=100, 35.77365pt x 39.7485pt>
+File: pictures/tensorflow.png Graphic file (type png)
+<use pictures/tensorflow.png>
+Package luatex.def Info: pictures/tensorflow.png  used on input line 486.
+(luatex.def)             Requested size: 12.23984pt x 13.59982pt.
+<pictures/pandas.png, id=101, 194.7275pt x 259.97125pt>
+File: pictures/pandas.png Graphic file (type png)
+<use pictures/pandas.png>
+Package luatex.def Info: pictures/pandas.png  used on input line 486.
+(luatex.def)             Requested size: 10.18561pt x 13.59831pt.
+<pictures/numpy.png, id=102, 225.84375pt x 225.84375pt>
+File: pictures/numpy.png Graphic file (type png)
+<use pictures/numpy.png>
+Package luatex.def Info: pictures/numpy.png  used on input line 486.
+(luatex.def)             Requested size: 13.59828pt x 13.59828pt.
+<pictures/opencv.png, id=103, 144.54pt x 178.0251pt>
+File: pictures/opencv.png Graphic file (type png)
+<use pictures/opencv.png>
+Package luatex.def Info: pictures/opencv.png  used on input line 486.
+(luatex.def)             Requested size: 11.04073pt x 13.5985pt.
+<pictures/react.jpg, id=104, 1093.08376pt x 1008.76875pt>
+File: pictures/react.jpg Graphic file (type jpg)
+<use pictures/react.jpg>
+Package luatex.def Info: pictures/react.jpg  used on input line 486.
+(luatex.def)             Requested size: 13.59346pt x 12.54492pt.
+File: pictures/react.jpg Graphic file (type jpg)
+<use pictures/react.jpg>
+Package luatex.def Info: pictures/react.jpg  used on input line 486.
+(luatex.def)             Requested size: 13.59346pt x 12.54492pt.
+<pictures/android.png, id=105, 1106.1325pt x 1313.90875pt>
+File: pictures/android.png Graphic file (type png)
+<use pictures/android.png>
+Package luatex.def Info: pictures/android.png  used on input line 486.
+(luatex.def)             Requested size: 11.44342pt x 13.59294pt.
+<pictures/html5.png, id=106, 513.92pt x 513.92pt>
+File: pictures/html5.png Graphic file (type png)
+<use pictures/html5.png>
+Package luatex.def Info: pictures/html5.png  used on input line 486.
+(luatex.def)             Requested size: 13.59764pt x 13.59764pt.
+<pictures/css3.png, id=107, 1027.84pt x 1027.84pt>
+File: pictures/css3.png Graphic file (type png)
+<use pictures/css3.png>
+Package luatex.def Info: pictures/css3.png  used on input line 486.
+(luatex.def)             Requested size: 13.59764pt x 13.59764pt.
+<pictures/git.png, id=108, 200.75pt x 200.75pt>
 File: pictures/git.png Graphic file (type png)
 <use pictures/git.png>
-Package luatex.def Info: pictures/git.png  used on input line 466.
+Package luatex.def Info: pictures/git.png  used on input line 486.
 (luatex.def)             Requested size: 13.59752pt x 13.59752pt.
-<pictures/docker.png, id=104, 225.84375pt x 225.84375pt>
+<pictures/latex.png, id=109, 128.48pt x 128.48pt>
+File: pictures/latex.png Graphic file (type png)
+<use pictures/latex.png>
+Package luatex.def Info: pictures/latex.png  used on input line 486.
+(luatex.def)             Requested size: 13.5996pt x 13.5996pt.
+LaTeX Font Info:    Font shape `TU/CormorantGaramond(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 486.
+<pictures/matlab.jpg, id=110, 685.8122pt x 589.4522pt>
+File: pictures/matlab.jpg Graphic file (type jpg)
+<use pictures/matlab.jpg>
+Package luatex.def Info: pictures/matlab.jpg  used on input line 486.
+(luatex.def)             Requested size: 13.59355pt x 11.6836pt.
+<pictures/docker.png, id=111, 225.84375pt x 225.84375pt>
 File: pictures/docker.png Graphic file (type png)
 <use pictures/docker.png>
-Package luatex.def Info: pictures/docker.png  used on input line 466.
+Package luatex.def Info: pictures/docker.png  used on input line 486.
 (luatex.def)             Requested size: 13.59828pt x 13.59828pt.
-<pictures/react.jpg, id=105, 1093.08376pt x 1008.76875pt>
-File: pictures/react.jpg Graphic file (type jpg)
-<use pictures/react.jpg>
-Package luatex.def Info: pictures/react.jpg  used on input line 466.
-(luatex.def)             Requested size: 13.59346pt x 12.54492pt.
-File: pictures/react.jpg Graphic file (type jpg)
-<use pictures/react.jpg>
-Package luatex.def Info: pictures/react.jpg  used on input line 466.
-(luatex.def)             Requested size: 13.59346pt x 12.54492pt.
-<pictures/redux.png, id=106, 828.696pt x 748.9581pt>
-File: pictures/redux.png Graphic file (type png)
-<use pictures/redux.png>
-Package luatex.def Info: pictures/redux.png  used on input line 466.
-(luatex.def)             Requested size: 13.59323pt x 12.28526pt.
-<pictures/thingsboard.png, id=107, 200.75pt x 200.75pt>
-File: pictures/thingsboard.png Graphic file (type png)
-<use pictures/thingsboard.png>
-Package luatex.def Info: pictures/thingsboard.png  used on input line 466.
-(luatex.def)             Requested size: 13.59752pt x 13.59752pt.
-<pictures/kubernetes.png, id=108, 1204.5pt x 1169.36874pt>
+<pictures/kubernetes.png, id=112, 1204.5pt x 1169.36874pt>
 File: pictures/kubernetes.png Graphic file (type png)
 <use pictures/kubernetes.png>
-Package luatex.def Info: pictures/kubernetes.png  used on input line 466.
+Package luatex.def Info: pictures/kubernetes.png  used on input line 486.
 (luatex.def)             Requested size: 13.5822pt x 13.18605pt.
-<pictures/openwhisk.jpg, id=109, 401.5pt x 401.5pt>
-File: pictures/openwhisk.jpg Graphic file (type jpg)
-<use pictures/openwhisk.jpg>
-Package luatex.def Info: pictures/openwhisk.jpg  used on input line 466.
-(luatex.def)             Requested size: 13.59445pt x 13.59445pt.
- [3<./pictures/python.png><./pictures/js.png><./pictures/java.png><./pictures/cp
-p.png><./pictures/mysql.png><./pictures/bash.png><./pictures/matlab.jpg><./pictu
-res/git.png><./pictures/docker.png><./pictures/react.jpg><./pictures/redux.png><
-./pictures/thingsboard.png><./pictures/kubernetes.png><./pictures/openwhisk.jpg>
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+ [3<./pictures/atrovan.png><./pictures/shams.png><./pictures/python.png><./pictu
+res/js.png><./pictures/java.png><./pictures/cpp.png><./pictures/pytorch.png><./p
+ictures/tensorflow.png><./pictures/pandas.png><./pictures/numpy.png><./pictures/
+opencv.png><./pictures/react.jpg><./pictures/android.png><./pictures/html5.png><
+./pictures/css3.png><./pictures/git.png><./pictures/latex.png><./pictures/matlab
+.jpg><./pictures/docker.png><./pictures/kubernetes.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 500.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 500.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 500.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 500.
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: C81164BA865F7EF4A5ADD7395F1C6433;1378.
+(rerunfilecheck)             Checksum: A69B99E777375B70B5DE4D0709CC21D7;1378.
 )
 
 Here is how much of LuaTeX's memory you used:
- 36387 strings out of 494291
+ 36427 strings out of 494291
  125171,953878 words of node,token memory allocated
  3776 words of node memory still in use:
    23 hlist, 3 vlist, 8 rule, 18 disc, 2 local_par, 2 math, 73 glue, 25 kern, 5 
 penalty, 172 glyph, 159 attribute, 73 glue_spec, 159 attribute_list, 3 write, 72
  pdf_literal, 3 pdf_start_link, 3 pdf_end_link, 3 pdf_action, 12 pdf_colorstack 
 nodes
-   avail lists: 1:2,2:1361,3:242,4:216,5:353,6:67,7:3940,8:15,9:484,10:10,11:368
+   avail lists: 1:1,2:1446,3:251,4:226,5:369,6:73,7:3775,8:16,9:591,10:10,11:354
 
- 39028 multiletter control sequences out of 65536+600000
+ 39044 multiletter control sequences out of 65536+600000
  87 fonts using 16899631 bytes
  69i,24n,98p,767b,817s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2019/texmf-dist/fonts/opentype/catharsis/cormorantgaramond/C
@@ -1799,9 +1820,9 @@ harsis/cormorantgaramond/CormorantGaramond-RegularItalic.otf></usr/local/texlive
 ldItalic.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/catharsis/cormor
 antgaramond/CormorantGaramond-Regular.otf></usr/local/texlive/2019/texmf-dist/fo
 nts/type1/public/marvosym/marvosym.pfb>
-Output written on CV.pdf (3 pages, 941176 bytes).
+Output written on CV.pdf (3 pages, 877228 bytes).
 
-PDF statistics: 158 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 168 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
  16 named destinations out of 1000 (max. 131072)
  112 words of extra memory for PDF output out of 10000 (max. 100000000)
