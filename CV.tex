@@ -19,24 +19,31 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 
-\documentclass[10pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[11pt,a4paper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 
-\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 %\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 \usepackage{multicol}
+\usepackage{multirow}
 \usepackage{graphicx}
-\usepackage[scale=0.77]{geometry}
+\usepackage[top=2cm, bottom=2cm, left=1.5cm, right=1.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{changepage}
 %\usepackage{cmcyr}
 % Reduce document margins
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 \usepackage{fontawesome}
+
+\usepackage{fontspec, booktabs,}
+\usepackage{cinzel}
+\usepackage{CormorantGaramond}
 
 %image inline with text
 \newcommand*{\authorimg}[1]{%
@@ -49,135 +56,364 @@
 	}%
 }
 
-%----------------------------------------------------------------------------------------
+\renewcommand*{\sectionfont}{\Large\bfseries\scshape}
+\renewcommand*{\labelitemi}{\strut\textcolor{color0}{\large\rmfamily\textbullet}}
+%\renewcommand*{\namefont}{\Huge\cinzel\upshape}
+\renewcommand*{\subsectionfont}{\small\upshape}
+\renewcommand*{\hintfont}{\bfseries}
+%\renewcommand*{\emailsymbol}{}
+%\renewcommand*{\homepagesymbol}{}
+%\renewcommand*{\bibliographyhead}[1]{}
+
+\makeatletter
+\renewcommand\@biblabel[1]{\large\rmfamily\textbullet}
+\makeatother
+
+\newlength{\bibitemsep}\setlength{\bibitemsep}{0.4\baselineskip}
+\newlength{\bibparskip}\setlength{\bibparskip}{2pt}
+\let\oldthebibliography\thebibliography
+\renewcommand\thebibliography[1]{%
+	\oldthebibliography{#1}%
+	\setlength{\parskip}{\bibitemsep}%
+	\setlength{\itemsep}{\bibparskip}%
+}
+
+
+%-------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 
 \firstname{Mohammad Hassan}
 \familyname{Mojab}
 
-\title{Curriculum Vitae}
-%\address{
-%	\textbf{
-%		\href{http://ee.aut.ac.ir/}{Amirkabir University of Technology - Department of Electrical Engineering}{}
-%	}
-%}
+%\title{Curriculum Vitae}
+\title{\href{ce.sharif.edu}{\large{\textbf{Computer Engineering Department -- Sharif University of Technology -- Tehran, Iran}}}}
 
-
+%\address{\href{ce.sharif.edu}{\textbf{Computer Engineering Department}}}{\href{ce.sharif.edu}{\textbf{Sharif University of Technology}}}{\textbf{Tehran, Iran}}
 
 \mobile{(+98) 917 963 7615}
 %\phone{(000) 111 1112}
 %\fax{(000) 111 1113}
-\email{ mh\_mojab75@yahoo.com }
-%\email{ mhmojab@aut.ac.ir }
+\email{mhmojab@ce.sharif.edu}
 %\homepage{} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
 %\extrainfo{}
-\social[linkedin][www.linkedin.com/in/mohammad-hassan-mojab]{mohammad-hassan-mojab}
+\social[linkedin][linkedin.com/in/mohammad-hassan-mojab]{mohammad-hassan-mojab}
 
 %\photo[70pt][0.2pt]{pictures/photo.jpg} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
 %\quote{"A witty and playful quotation" - John Smith}
 
-%----------------------------------------------------------------------------------
-%            content
-%----------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+%   CONTENT
+%-------------------------------------------------------------------------------
 \begin{document}
 	
 \makecvtitle
-%\vspace{-35 pt}
+\vspace{-25 pt}
 %\centerline{\includegraphics[width=4.5cm, height=6cm]{1}}
 
-%----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
-%----------------------------------------------------------------------------------------
-\section{EDUCATION}
+%-------------------------------------------------------------------------------
+%	RESEARCH INTERESTS SECTION
+%-------------------------------------------------------------------------------
+\section{Research Interests}
 
 \begin{itemize}
-	
-	\item \textbf{Bachelor of Science} \hfill 2014--2019 \\
-	\href{http://aut.ac.ir/}{\authorimg{pictures/aut.png} \emph{Amirkabir University of Technology}} \hfill \emph{Tehran-Iran}
+	\item Machine Learning, Deep Learning, Reinforcement Learning
+	\item Computer Vision, Image Processing
+	\item Internet of Things, Cloud Computing
+\end{itemize}
+
+%-------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%-------------------------------------------------------------------------------
+\section{Education}
+
+\begin{itemize}
+	\item \textbf{Master of Science} \hfill 2019--Present \\
+	\href{https://en.sharif.edu}{\authorimg{pictures/sut.png} \emph{Sharif University of Technology}} \hfill \emph{Tehran, Iran}
 	
 	\begin{itemize}
-		\item Major: Electrical Engineering (Electronics) \hspace{30 pt}  GPA: 17.49/20 via 140 credits
-		\item Minor: Computer Engineering (Software) \hspace{37 pt} GPA: 16.04/20 via 18 credits
+		\item Computer Science (Artificial Intelligence) \hspace{44 pt}  \textbf{GPA: 16.93/20} via 23 credits
+	\end{itemize}
+
+	\vspace{8pt}
+	
+	\item \textbf{Bachelor of Science} \hfill 2014--2019 \\
+	\href{https://aut.ac.ir/en}{\authorimg{pictures/aut.png} \emph{Amirkabir University of Technology}} \hfill \emph{Tehran, Iran}
+	
+	\begin{itemize}
+		\item \textbf{Major}: Electrical Engineering (Electronics) \hspace{40 pt}  \textbf{GPA: 17.49/20} via 140 credits
+		\item \textbf{Minor}: Computer Engineering (Software) \hspace{45 pt} \textbf{GPA: 16.04/20} via 18 credits
 	\end{itemize}
 	
 	%	\item \textbf{High School} \hfill 2010--2014 \\
 	%	\href{http://emamrezaschool.com/}{\authorimg{pictures/emamreza.png} \emph{Emam Reza}} \hfill \emph{Shiraz-Iran}
-	
 \end{itemize}
 
-%----------------------------------------------------------------------------------------
-%	HONOR SECTION
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------
+%	Dissertations section
+%-------------------------------------------------------------------------
+\section{Dissertations}
 
-%\section{HONORS}
-%
-%\begin{itemize}
-%	\item \textbf{Ranked 8\textsuperscript{th}} in Electrical Engineering, Electronics Group, among more than 30 students,
-%	Amirkabir University of Technology, Tehran, Iran.
-%	
-%	\item \textbf{Ranked 366\textsuperscript{th}/617\textsuperscript{th}} in university entrance exam (Konkour), among more than 500,000
-%	participant [Summer 2014].
-%	
-%	\item Permitted to study Software Engineering as a minor (This permission is only awarded to talented students, introduced by the Exceptional Talents Office).
-%\end{itemize}
+\textbf{Active Object Localization} \hfill Present
+\begin{adjustwidth}{0.2in}{0in}
+	\emph{\textbf{Master Thesis} \textendash Supervisor: \href{http://sharif.edu/~beigy}{\textcolor{violet}{Dr. Beigy}}}
+	\begin{itemize}
+		\item Localizing objects in large images efficiently by using an \textbf{adaptive information acquisition} algorithm.
+		\item Reducing the cost of processing the whole image by adaptively selecting the regions of interest.
+		\item Increasing the run-time efficiency of object detection networks.
+	\end{itemize}
+\end{adjustwidth}
 
-%----------------------------------------------------------------------------------------
-%	TOP COURSES SECTION
-%----------------------------------------------------------------------------------------
-\section{TOP COURSES}
+\vspace{10pt}
+
+\textbf{Serverless IoT platform} \hfill Spring 2019
+\begin{adjustwidth}{0.2in}{0in}
+	\emph{\textbf{Bachelor Thesis} \textendash Supervisor: \href{https://aut.ac.ir/cv/2222/HASSAN-TAHERI?slc_lang=en}{\textcolor{violet}{Dr. Taheri}}}
+	\begin{itemize}
+		\item Designing and implementing a \textbf{serverless} IoT platform using \textbf{OpenWhisk} \& \textbf{Kubernetes}.
+		\item Deploying an MQTT message broker and creating a simulation of IoT devices to send data to it.
+		\item Implementing RESTful APIs to store and retrieve time series data of IoT devices.
+		\item Developing a mobile application client for time series data visualization.
+	\end{itemize}
+\end{adjustwidth}
+
+%-------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%-------------------------------------------------------------------------------
+\section{Publications}
+
+\begin{itemize}
+	\item Heydar Soudani, \textbf{Mohammad Hassan Mojab}, and Hamid Beigy. \textbf{Persian Natural Language Inference: A Meta-learning Approach.} In Association for Computational Linguistics, \textbf{2022} (Submitted).
+	
+	\vspace{10pt}
+	
+	\item Ali Samadzadeh, \textbf{Mohammad Hassan Mojab}, Heydar Soudani, Seyed Hesamoddin Mireshghollah, Ahmad Nickabadi, and Morteza Haghir Chehreghani. \textbf{Amirkabir Campus Dataset: Real-world Challenges and Scenarios of Visual Inertial Odometry (VIO) for Visually Impaired People.} In IEEE/CVF Conference on Computer Vision and Pattern Recognition, \textbf{2022} (Submitted).
+\end{itemize}
+
+%-------------------------------------------------------------------------------
+%	HONORS SECTION
+%-------------------------------------------------------------------------------
+\section{Honors}
+
+\begin{itemize}
+	\item \textbf{Top 10\%}, based on GPA among all artificial intelligence students. \hfill 2021 \\
+	\small{\textcolor{gray}{CE Department, Sharif University of Technology, Tehran, Iran}}
+	
+	\vspace{5pt}
+	
+	\item \textbf{Ranked 11\textsuperscript{th}}, at the National university entrance exam to graduate school \hfill 2019 \\
+	\small{\textcolor{gray}{Among more than 10,000 students in Artificial Intelligence \& Robotics major, National university entrance exam, Iran}}
+	
+	\vspace{5pt}
+	
+	\item \textbf{Top 10\%}, based on GPA among all EE students. \hfill 2018 \\
+	\small{\textcolor{gray}{EE Department, Amirkabir University of Technology, Tehran, Iran}}
+	
+	\vspace{5pt}
+	
+	\item \textbf{Permitted} to study Software Engineering as a minor \hfill 2016 \\
+	\small{\textcolor{gray}{Permission is only given to talented students, Exceptional Talents Office, Amirkabir University Technology, Tehran, Iran}}
+	
+	\vspace{5pt}
+	
+	\item \textbf{Top 0.3\%}, at the National university entrance exam. \hfill 2014 \\
+	\small{\textcolor{gray}{Among more than 200,000 students in mathematical and physics major, National university entrance exam, Iran}}
+\end{itemize}
+
+%-------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCES SECTION
+%-------------------------------------------------------------------------------
+\section{Research Experiences}
+
+\begin{itemize}
+	\item \textbf{Research Assistant} \hfill 2019--Present \\
+	\authorimg{pictures/sut.png} \emph{Sharif Intelligent System Laboratory (SISL)} \hfill \emph{CE Department}
+	
+	\begin{adjustwidth}{0.2in}{0in}
+		\emph{Supervisor: \href{http://sharif.edu/~beigy}{\textcolor{violet}{Dr. Hamid Beigy}}}
+		
+		\begin{itemize}
+			\item Collaboration on adaptive information acquisition and computer vision projects.
+			\item Providing tech support and guidance.
+		\end{itemize}
+	\end{adjustwidth}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Research Assistant} \hfill 2017--2019 \\
+	\authorimg{pictures/aut.png} \emph{Digital Smart Systems (High Performance Computing) Laboratory} \hfill \emph{EE Department}
+	
+	\begin{adjustwidth}{0.2in}{0in}
+		\emph{Supervisor: \href{http://ele.aut.ac.ir/~motamedi}{\textcolor{violet}{Prof. Seyed Ahmad Motamedi}}}
+		
+		\begin{itemize}
+			\item Research and development of \textbf{IoT solutions} for smart home, power analyzer, and fleet management systems.
+		\end{itemize}
+	\end{adjustwidth}
+
+	\vspace{10pt}
+
+	\item \textbf{Research Assistant} \hfill 2016--2017 \\
+	\authorimg{pictures/aut.png} \emph{Control of Multi Vehicle Systems Laboratory (CMVL)} \hfill \emph{EE Department}
+	
+	\begin{adjustwidth}{0.2in}{0in}
+		\emph{Supervisor: \href{http://ele.aut.ac.ir/~abdollahi}{\textcolor{violet}{Dr. Farzaneh Abdollahi}}}
+		
+		\begin{itemize}
+			\item Collaboration in \textbf{Semi-Autonomous UGV} control project.
+			\item Implementing UGV navigation using \textbf{ArUco} machine vision library.
+%			\item Designing a controller for UGV using \textbf{Simulink}.
+			\item Connecting UGV to the server using \textbf{NRF} \& \textbf{UDP} protocols.
+			\item Developing a graphical user interface for UGV controller.
+%			\item Design and program AVR micro-controllers and Raspberry Pi micro-computer.
+			\item Collaboration in \textbf{Quadcopter} control project.
+			\item Controlling Quadcopter using \textbf{Erle-Brain} and APM planner software.
+		\end{itemize}
+	\end{adjustwidth}
+\end{itemize}
+
+%-------------------------------------------------------------------------------
+%	Internship section
+%-------------------------------------------------------------------------------
+\section{Internship}
+
+\textbf{Monitoring and tracking objects for rehabilitation and security uses} \hfill Summer 2017
+
+\emph{Supervisor: \href{http://ele.aut.ac.ir/~sharifian}{\textcolor{violet}{Dr. Saeed Sharifian}}}
+
+\begin{adjustwidth}{0.2in}{0in}
+	\begin{itemize}
+		\item Developing and designing two cross-platform mobile applications using \textbf{React Native} and \textbf{Redux} frameworks.
+		\item Developing a back-end server for mobile applications using \textbf{PHP} and \textbf{MySQL}.
+	\end{itemize}
+\end{adjustwidth}
+
+%-------------------------------------------------------------------------------
+%	Top Courses section
+%-------------------------------------------------------------------------------
+\section{Top Courses}
 
 % makes the text in two columns
 \begin{multicols}{2} 
-
 	\begin{itemize}
-	
+		\item Natural Language Processing \hfill{19.8}
+		\item Machine Learning Theory \hfill{19.1}
+		\item Deep Learning \hfill{17.5}
+		\item Image Processing \hfill{17.5}
+%		\item Stochastic Processes \hfill{16.5}
+%		\item Convex Optimization \hfill{16.6}
+		\item Internet Engineering						\hfill{20}
 		\item Computer Programming               		\hfill{20}  
 		\item Advanced Programming                    \hfill{19.64}
-		\item Internet Engineering						\hfill{20}
-		\item Logical Circuits                         \hfill{18.7}
-		\item Computer Architecture \& Microprocessors \hfill{19.6}
-		\item Microprocessor Systems \& Interfaces		\hfill{18.5}
-		\item Linear Control Systems                   \hfill{18.24}
+%		\item Logical Circuits                         \hfill{18.7}
+		\item Computer Architecture                    \hfill{19.6}
+%		\item Microprocessor Systems \& Interfaces		\hfill{18.5}
+%		\item Linear Control Systems                   \hfill{18.24}
 		%\item Pulse \& Digital Circuits					\hfill{17.4}
-		\item Probability \& Statistics				\hfill{17.5}  
-		\item Engineering Mathematics               \hfill{19}
-		\item Electric Circuits                       	  		\hfill{20}   
-		\item Electronics II                              		\hfill{19} 
-		\item Technical English                               \hfill{18.5}
-	
+%		\item Probability \& Statistics				\hfill{17.5}  
+%		\item Engineering Mathematics               \hfill{19}
+%		\item Electric Circuits                       	  		\hfill{20}   
+%		\item Electronics II                              		\hfill{19} 
+%		\item Technical English                               \hfill{18.5}
 	\end{itemize}
-
 \end{multicols}
 
-%----------------------------------------------------------------------------------------
-%	RESEARCH INTERESTS SECTION
-%----------------------------------------------------------------------------------------
-\section{RESEARCH INTERESTS}
+%-------------------------------------------------------------------------------
+%	Work Experiences section
+%-------------------------------------------------------------------------------
+\section{Work Experiences}
+
 \begin{itemize}
-	\item Internet of Things
-	\item Large scale Machine Learning \& Big Data
-	\item Data Mining
-	\item Deep Learning
-	\item Natural Language Processing
-	\item Semantic Web
+	\item \textbf{Software Engineer \& Lead Front-End Developer} \hfill Oct 2017--Present \\
+	\href{https://atrovan.com}{\authorimg{pictures/atrovan.png} \emph{Andishe Fartak Amirkabir (Atrovan)}} \hfill \emph{Tehran, Iran}
+	\vspace{1mm}
+	\linebreak
+	Designing and developing mobile and web applications for:
+	\begin{itemize}
+		\item Smart metering systems (\emph{AtroMeter})
+		\item Fleet management system (\emph{Navgoon})
+		\item Building management system (\emph{AtCore})
+		\item Electricity power analyzer (\emph{EcoSense})
+		\item Home automation (\emph{Smart Home})
+	\end{itemize}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Software Engineer \& Mobile Application Developer} \hfill Sep 2018--Jan 2019 \\
+	\href{http://shamstech.ir}{\authorimg{pictures/shams.png} \emph{Tosee Pardazan Andishe Gostar (Shams)}} \hfill \emph{Tehran, Iran}
+	
+	\begin{itemize}
+		\item Developing Android \& iOS applications for two-sided metal market platform.
+	\end{itemize}
 \end{itemize}
 
-%----------------------------------------------------------------------------------------
-%	LANGUAGE SKILLS SECTION
-%----------------------------------------------------------------------------------------
-\section{LANGUAGE SKILLS}
+%-------------------------------------------------------------------------------
+%	ACADEMIC PROJECTS SECTION
+%-------------------------------------------------------------------------------
+\section{Academic Projects}
 
 \begin{itemize}
-	\item English \hspace{6 pt} Advanced (reading, writing, listening); Intermediate (speaking)
-\end{itemize} 
+	\item \textbf{Persian NLI} \hfill Summer 2021
+	
+	\emph{Natural Language Processing Course -- Supervisor: \href{http://ce.sharif.edu/~bokaei}{\textcolor{violet}{Dr. Mohammad Hadi Bokaei}}}
+	
+	\begin{itemize}
+		\item Using meta-learning algorithms to improve the Persian Natural Language Inference (NLI) task.
+		\item Use cross-lingual methods to implement NLI task in Persian (a low-resource language).
+	\end{itemize}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Video Colorization} \hfill Winter 2020
+	
+	\emph{Deep Learning Course -- Supervisor: \href{http://sharif.edu/~beigy}{\textcolor{violet}{Dr. Hamid Beigy}}}
+	
+	\begin{itemize}
+		\item Image/Video Colorization using Generative Adversarial Networks (GAN) and various distance functions.
+	\end{itemize}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Speaker Recognition} \hfill Spring 2018
+	
+	\emph{Computational Intelligence Course -- Supervisor: \href{http://ele.aut.ac.ir/~abdollahi}{\textcolor{violet}{Dr. Farzaneh Abdollahi}}}
+	
+	\begin{itemize}
+		\item Designing a Speaker Recognition System using \textbf{Multi-Layer Perceptron Neural Network} coded in \textbf{MATLAB} with GUI.
+	\end{itemize}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Holographic Scanner} \hfill Spring 2016
+	
+	\emph{Advanced Programming Course -- Supervisor: \href{https://mbtech.aut.ac.ir/people/amir-jahanshahi}{\textcolor{violet}{Dr. Amir Jahanshahi}}}
+	
+	\begin{itemize}
+		\item The project includes a GUI created by \textbf{pyQt} and two sharp distance sensors attached to a soccer robot to make a \textbf{Holographic} scan of the environment by rotation of the robot and then send data over the serial port to the computer. After processing the received data, a 3D Real-time plot of the scanned environment is displayed in the \textbf{GUI}.
+	\end{itemize}
+	
+	\vspace{10pt}
+	
+	\item \textbf{Online Food Ordering Website} \hfill Spring 2017
+	
+	\emph{Internet Engineering Course -- Supervisor: \href{https://ceit.aut.ac.ir/~bakhshis}{\textcolor{violet}{Dr. Bahador Bakhshi}}}
+	
+	\begin{itemize}
+		\item Developing and designing an online food ordering website by the use of \textbf{HTML}, \textbf{CSS}, and \textbf{JavaScript} for front-end and \textbf{PHP} and \textbf{MySQL} for the back-end of the website.
+	\end{itemize}
+	
+	%\item \textbf{Designing Wireless IoT Device}. Data gathering from \textbf{PIR}, \textbf{Temperature \& Humidity} sensors using \textbf{ESP} module.
+	%\begin{itemize}
+	%	\item \textcolor{gray}{Supervisor: Dr. Sharifian [Spring 2017]}
+	%	\newline
+	%\end{itemize}
+	
+\end{itemize}
 
-%----------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 %	COMPUTER SKILLS SECTION
-%----------------------------------------------------------------------------------------
-\section{COMPUTER SKILLS}
-
-\vspace{1em}
+%-------------------------------------------------------------------------------
+\section{Computer Skills}
 
 \begin{cvcolumns}
   \cvcolumn{Languages}
@@ -185,15 +421,15 @@
 			\vspace{0.1em}
 			\setlength\itemsep{0.3em}
 	  		\item \authorimg{pictures/python.png} Python 
-	  		%\item \authorimg{pictures/html5.png} HTML5 
-	  		%\item \authorimg{pictures/css3.png} CSS3 
+	  		%\item \authorimg{pictures/html5.png} HTML5
+	  		%\item \authorimg{pictures/css3.png} CSS3
 	  		\item \authorimg{pictures/js.png} JavaScript
 	  		\item \authorimg{pictures/java.png} Java
 	  		\item \authorimg{pictures/cpp.png} C\raisebox{1pt}{\tiny++}
-	  		\item \authorimg{pictures/php.png} PHP
+%	  		\item \authorimg{pictures/php.png} PHP
 	  		\item \authorimg{pictures/mysql.png} SQL
 	  		\item \authorimg{pictures/bash.png} Bash
-	  		\item \authorimg{pictures/latex.png} \LaTeX
+%	  		\item \authorimg{pictures/latex.png} \LaTeX
   		\end{itemize}}
 
   \cvcolumn{Technical Tools}
@@ -227,112 +463,17 @@
 	 		\item \authorimg{pictures/kubernetes.png} Kubernetes
 	 		\item \authorimg{pictures/openwhisk.jpg} OpenWhisk
 	 \end{itemize}}
- 	
 \end{cvcolumns}
 
-\newpage
-
-%----------------------------------------------------------------------------------------
-%	EXPERIENCE SECTION
-%----------------------------------------------------------------------------------------
-\section{EXPERIENCE}
+%-------------------------------------------------------------------------------
+%	LANGUAGE PROFICIENCY SECTION
+%-------------------------------------------------------------------------------
+\section{Language Proficiency}
 
 \begin{itemize}
+	\item English \hspace{6 pt} \textbf{Advanced} (reading, writing, listening); \textbf{Intermediate} (speaking)
 	
-	\item \textbf{Front-End \& Mobile Application Developer} \hfill Oct 2017--Present \\
-	\href{https://atrovan.com}{\authorimg{pictures/atrovan.png} \emph{Andishe Fartak Amirkabir (Atrovan)}} \hfill \emph{Tehran-Iran}
-	\vspace{1mm}
-	\linebreak
-	Developing Android \& iOS \& web applications for:
-	\begin{itemize}
-		\item Home automation (Smart Home)
-		\item Electricity power analyzer \href{https://atrovan.com/EcoSense}{(\emph{EcoSense})}
-		\item Fleet managing systems (Fleetak)
-	\end{itemize}
-	
-	\item \textbf{Mobile Application Developer} \hfill Sep 2018--Jan 2019 \\
-	\href{http://shamstech.ir}{\authorimg{pictures/shams.png} \emph{Tosee Pardazan Andishe Gostar (Shams)}} \hfill \emph{Tehran-Iran}
-	
-	\begin{itemize}
-		\item Developing Android \& iOS application for two-sided metal market platform.
-	\end{itemize}
-	
-	\item \textbf{Programmer} \hfill Sep 2016--Oct 2017 \\
-	\authorimg{pictures/aut.png} \emph{Control of Multi Vehicle Systems Laboratory} \hfill \emph{Tehran-Iran}
-	
-	\begin{itemize}
-		\item Programming AVR micro-controllers and Raspberry Pi micro-computer. 
-		\item Machine Vision. 
-		\item Developing user interface and designing a controller.
-	\end{itemize}
-	
-\end{itemize}
-
-%----------------------------------------------------------------------------------------
-%	B.Sc. THESIS SECTION
-%----------------------------------------------------------------------------------------
-\section{B.Sc. THESIS}
-\begin{itemize}
-	\item \textbf{Serverless IoT platform}
-	\item Designing and implementing a serverless IoT platform using \textbf{OpenWhisk} \& \textbf{Kubernetes}.
-	\item Deployment of MQTT message broker and simulate IoT devices to send data.
-	\item Implementing RESTful APIs to store \& retrieve timeseries data of IoT devices.
-	\item Developing a mobile application for timeseries data virtualization.
-	\begin{itemize} 
-		\item\textcolor{gray}{Supervisor: Dr. Taheri [Spring 2019]} 
-	\end{itemize}
-\end{itemize}
-
-%----------------------------------------------------------------------------------------
-%	INTERNSHIP SECTION
-%----------------------------------------------------------------------------------------
-\section{INTERNSHIP}
-\begin{itemize}
-	\item \textbf{Monitoring and tracking objects for rehabilitation and security uses.}
-	\item Developing and designing two cross-platform mobile applications using \textbf{React Native} and \textbf{Redux} frameworks.
-	\item Developing a back-end server for mobile applications using \textbf{PHP} and \textbf{MySQL}.
-	\begin{itemize} 
-		\item\textcolor{gray}{Supervisor: Dr. Sharifian [Summer 2017]} 
-	\end{itemize}
-\end{itemize}
-
-%----------------------------------------------------------------------------------------
-%	ACADEMIC PROJECTS SECTION
-%----------------------------------------------------------------------------------------
-\section{ACADEMIC PROJECTS}
-
-\begin{itemize}
-
-\item \textbf{Holographic Scanner}. The project includes a GUI created by \textbf{pyQt} and two sharp distance sensors attached to a soccer robot to make a \textbf{Holographic} scan of the environment by rotation of the robot and then send data over the serial port to the computer. After processing the received data, a 3D Real-time plot of the scanned environment is displayed in the \textbf{GUI}.
-\begin{itemize}
-	\item \textcolor{gray}{Supervisor: Dr. Jahanshahi [Spring 2016]}
-	\newline
-\end{itemize}
-
-\item \textbf{Semi-Autonomous UGV control with Intuitive Interface}. UGV navigation using an image processing library called \textbf{ArUco}, Controlling UGV using control systems implemented in \textbf{Simulink} and Connecting UGV to the server using \textbf{NRF} \& \textbf{UDP} protocols.
-\begin{itemize}
-	\item \textcolor{gray}{Supervisor: Dr. Abdollahi [Winter 2016]}
-	\newline
-\end{itemize}
-
-%\item \textbf{Designing Wireless IoT Device}. Data gathering from \textbf{PIR}, \textbf{Temperature \& Humidity} sensors using \textbf{ESP} module.
-%\begin{itemize}
-%	\item \textcolor{gray}{Supervisor: Dr. Sharifian [Spring 2017]}
-%	\newline
-%\end{itemize}
-
-\item \textbf{Online Food Ordering Website}. Developing and designing an online food ordering website by the use of \textbf{HTML}, \textbf{CSS}, and \textbf{JavaScript} for front-end and \textbf{PHP} and \textbf{MySQL} for the back-end of the website.
-\begin{itemize}
-	\item \textcolor{gray}{Supervisor: Dr. Bakhshi [Spring 2017]}
-	\newline
-\end{itemize}
-
-\item \textbf{Speaker Recognition}. Designing a Speaker Recognition System using \textbf{Multi-Layer Perceptron Neural Network} and \textbf{Back Propagation} algorithm for training coded in \textbf{MATLAB} with GUI.
-\begin{itemize}
-	\item \textcolor{gray}{Supervisor: Dr. Abdollahi [Spring 2018]}
-	\newline
-\end{itemize}
-
-\end{itemize}
+	\item Persian \hspace{6 pt} \textbf{Native}
+\end{itemize} 
 
 \end{document}
